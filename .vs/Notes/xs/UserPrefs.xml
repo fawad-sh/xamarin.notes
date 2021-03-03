@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{88B66972-ECCB-4402-B36F-BAC834632D64}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Notes/App.xaml.cs">
+    <Files>
+      <File FileName="Notes/Views/NotesPage.xaml" Line="1" Column="1" />
+      <File FileName="Notes/Views/NotesPage.xaml.cs" Line="41" Column="1" />
+      <File FileName="Notes/Data/NodeDatabase.cs" Line="52" Column="2" />
+      <File FileName="Notes/App.xaml.cs" Line="43" Column="2" />
+      <File FileName="Notes/Views/NoteEntryPage.xaml.cs" Line="17" Column="10" />
+      <File FileName="Notes/App.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Notes" expanded="True">
+            <Node name="Notes" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="NoteEntryPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Notes.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.83660565-E7C1-428C-98D7-B8868D989433" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Notes HideGettingStarted="True" />
+</Properties>
